@@ -1,0 +1,5 @@
+﻿  test.c
+  game.c
+d:\c-code\game2\game2\game.c(49): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  正在生成代码...
+  game2.vcxproj -> D:\C-Code\game2\Debug\game2.exe

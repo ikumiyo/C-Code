@@ -1,0 +1,10 @@
+﻿  职工管理系统.cpp
+d:\c-code\基于多态的职工管理系统\基于多态的职工管理系统\职工管理系统.cpp(11): error C2628: “Boss”后面接“int”是非法的(是否忘记了“;”?)
+d:\c-code\基于多态的职工管理系统\基于多态的职工管理系统\职工管理系统.cpp(12): error C3874: “main”的返回类型应为“int”而非“Boss”
+d:\c-code\基于多态的职工管理系统\基于多态的职工管理系统\职工管理系统.cpp(67): error C2664: “Boss::Boss(const Boss &)”: 无法将参数 1 从“int”转换为“const Boss &”
+          原因如下:  无法从“int”转换为“const Boss”
+          无构造函数可以接受源类型，或构造函数重载决策不明确
+  manager.cpp
+  boss.cpp
+d:\c-code\基于多态的职工管理系统\基于多态的职工管理系统\boss.cpp(5): error C2533: “Boss::{ctor}”: 构造函数不能有返回类型
+  正在生成代码...

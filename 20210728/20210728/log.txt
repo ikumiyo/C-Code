@@ -1,0 +1,10 @@
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=0
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=1
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=2
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=3
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=4
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=5
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=6
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=7
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=8
+file:d:\c-code\20210728\20210728\test.c line:374 date:Jul 28 2021 time:22:02:53 i=9

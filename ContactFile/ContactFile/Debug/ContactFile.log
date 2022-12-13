@@ -1,0 +1,5 @@
+﻿  test.c
+  Contact.c
+d:\c-code\contactfile\contactfile\contact.c(10): warning C4098: “InitContact”:“void”函数返回值
+  正在生成代码...
+  ContactFile.vcxproj -> D:\C-Code\ContactFile\Debug\ContactFile.exe

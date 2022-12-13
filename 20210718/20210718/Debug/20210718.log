@@ -1,0 +1,12 @@
+﻿  test.c
+d:\c-code\20210718\20210718\test.c(339): error C2037: “age”的左侧部分指定未定义的结构/联合“Stu”
+d:\c-code\20210718\20210718\test.c(339): warning C4033: “cmp_stu_by_age”必须返回值
+d:\c-code\20210718\20210718\test.c(344): error C2079: “s”使用未定义的 struct“s”
+d:\c-code\20210718\20210718\test.c(344): error C2078: 初始值设定项太多
+d:\c-code\20210718\20210718\test.c(345): warning C4034: sizeof 返回 0
+d:\c-code\20210718\20210718\test.c(345): error C2036: “Stu *”: 未知的大小
+d:\c-code\20210718\20210718\test.c(345): error C2027: 使用了未定义类型“Stu”
+          d:\c-code\20210718\20210718\test.c(344) : 参见“Stu”的声明
+d:\c-code\20210718\20210718\test.c(346): error C2036: “Stu *”: 未知的大小
+d:\c-code\20210718\20210718\test.c(346): error C2027: 使用了未定义类型“Stu”
+          d:\c-code\20210718\20210718\test.c(344) : 参见“Stu”的声明
